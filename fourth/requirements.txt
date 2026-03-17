@@ -1,0 +1,4 @@
+ipykernel
+sympy
+numpy
+matplotlib
