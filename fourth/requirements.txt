@@ -1,4 +1,6 @@
 ipykernel
-sympy
+scipy
 numpy
+pandas
 matplotlib
+seaborn
